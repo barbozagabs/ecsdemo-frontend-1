@@ -4,7 +4,7 @@
 name: pipeline-ecsworkshop-ecsdemo-frontend-1
 
 # The version of the schema used in this template
-version: 1
+version: 2
 
 # This section defines the source artifacts.
 source:
